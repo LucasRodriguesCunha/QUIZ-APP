@@ -1,4 +1,4 @@
-# QUIZ-APP
+# COMPUTE QUIZ
 ## QUIZ DE LINGUAGENS DE PROGRAMAÇÃO
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
