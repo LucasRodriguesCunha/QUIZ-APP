@@ -1,5 +1,5 @@
 # COMPUTE QUIZ
-## QUIZ DE LINGUAGENS DE PROGRAMAÇÃO
+> QUIZ DE LINGUAGENS DE PROGRAMAÇÃO
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="versão 1.0 do projeto - Login" title="#compute-quiz" src="https://github.com/LucasRodriguesCunha/QUIZ-APP/blob/main/login.png?raw=true">
