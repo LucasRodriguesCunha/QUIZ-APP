@@ -1,12 +1,12 @@
-# QUIZ-APP
-## QUIZ DE LINGUAGENS DE PROGRAMAÇÃO
+# COMPUTE QUIZ
+> QUIZ DE LINGUAGENS DE PROGRAMAÇÃO
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1.0 do projeto - Login" title="#QUIZ-APP" src="https://github.com/LucasRodriguesCunha/QUIZ-APP/blob/main/login.png?raw=true">
+  <img alt="versão 1.0 do projeto - Login" title="#compute-quiz" src="https://github.com/LucasRodriguesCunha/QUIZ-APP/blob/main/login.png?raw=true">
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1.0 do projeto - Login" title="#QUIZ-APP" src="https://github.com/LucasRodriguesCunha/QUIZ-APP/blob/main/quiz.png?raw=true">
+  <img alt="versão 1.0 do projeto - Login" title="#compute-quiz" src="https://github.com/LucasRodriguesCunha/QUIZ-APP/blob/main/quiz.png?raw=true">
 </p>  
 
 
