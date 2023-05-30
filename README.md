@@ -7,19 +7,13 @@
 - CSS3
 - JavaScript
 
-**To-Do:**
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-- [x] Refatorar CSS
-- [ ] Refatorar código JavaScript
+Este é um projeto de quiz relacionado às linguagens de programação que aprendemos ao longo do semestre. É uma aplicação simples e interativa que permite testar seus conhecimentos e aprofundar sua compreensão das principais linguagens de programação.
 
-### Author
+## FUNCIONALIDADES
 
-**Luciane Santos**
-
-- Email: lucianesantcs@gmail.com
-- GitHub: [@lucianesantcs](https://github.com/lucianesantcs)
-- LinkedIn: [@lucianesantcs](https://linkedin.com/in/lucianesantcs)
-
-### License
-
-Copyright © 2020 Luciane Santos / Matheus Battisti
+Quiz de múltipla escolha: O quiz apresenta uma série de perguntas sobre diferentes linguagens de programação, com opções de resposta. O usuário pode selecionar a resposta correta e receber feedback imediato.
+Diversidade de perguntas: O quiz abrange várias áreas das linguagens de programação, incluindo conceitos básicos e intermediários.
+Contagem de pontos: Cada resposta correta é pontuada e a pontuação total do usuário é exibida ao final do quiz.
+Exibição de respostas corretas: Após a conclusão do quiz, as respostas corretas são mostradas, permitindo ao usuário revisar e aprender com seus erros.
