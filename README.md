@@ -1,13 +1,7 @@
 # QUIZ-APP
 ## QUIZ DE LINGUAGENS DE PROGRAMAÇÃO
 
-Simples quiz desenvolvido com html, css, e javascript.
-<br>
-
-- <a href="https://lucianesantcs.github.io/quizz/">Live Preview</a>
-- <a href="https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/">JavaScript do básico ao avançado</a>
-
-### Techs
+### LINGUAGENS USADAS NA CONSTRUÇÃO DO QUIZ
 
 - HTML5
 - CSS3
