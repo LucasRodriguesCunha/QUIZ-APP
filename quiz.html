@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo1.css">
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <title>Quiz</title>
+</head>
+<body>
+
+    <div class="start_btn"><button>Você está pronto?</button></div>
+
+    <div class="info_box">
+        <div class="info-title"><span>Algumas regras deste Quiz</span></div>
+        <div class="info-list">
+            <div class="info">1. Terá apenas<span> 15 segundos</span> por cada pergunta.</div>
+            <div class="info">2. Depois de selecionar sua resposta, ela não poderá ser desfeita.</div>
+            <div class="info">3. Você não pode selecionar nenhuma opção quando o tempo acabar.</div>
+            <div class="info">4. Não é possível sair do Quiz enquanto estiver jogando.</div>
+            <div class="info">5. Você receberá pontos com base em suas respostas corretas.</div>
+        </div>
+        <div class="buttons">
+            <button class="quit">Sair</button>
+            <button class="restart">Prosseguir</button>
+        </div>
+    </div>
+
+    <div class="quiz_box">
+        <header>
+            <div class="title">Projeto integrador de extensão I</div>
+            <div class="timer">
+                <div class="time_left_txt">Tempo restante</div>
+                <div class="timer_sec">15</div>
+            </div>
+            <div class="time_line"></div>
+        </header>
+        <section>
+            <div class="que_text">
+
+            </div>
+            <div class="option_list">
+
+            </div>
+        </section>
+        <footer>
+            <div class="total_que"></div>
+            <button class="next_btn">Próxima Questão</button>
+        </footer>
+    </div>
+
+    <div class="result_box">
+        <div class="icon">
+            <i class="fas fa-crown"></i>
+        </div>
+        <div class="complete_text">Concluiu o Quiz!</div>
+        <div class="score_text">
+        </div>
+        <div class="buttons">
+            <button class="restart">Refazer Quiz</button>
+            <button class="quit">Sair do Quiz</button>
+        </div>
+    </div>
+
+    <script src="questoes.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
