@@ -1,5 +1,5 @@
-# Quiz-APP
-## Quizz de Programação
+# QUIZ-APP
+## QUIZ DE LINGUAGENS DE PROGRAMAÇÃO
 
 Simples quiz desenvolvido com html, css, e javascript.
 <br>
