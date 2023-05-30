@@ -1,9 +1,6 @@
 # QUIZ-APP
 ## QUIZ DE LINGUAGENS DE PROGRAMAÇÃO
 
-https://github.com/LucasRodriguesCunha/QUIZ-APP/blob/main/trofeu-login.jpg
-
-
 #### LINGUAGENS USADAS NA CONSTRUÇÃO DO QUIZ
 
 - HTML5
