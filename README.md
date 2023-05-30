@@ -14,6 +14,9 @@ Este é um projeto de quiz relacionado às linguagens de programação que apren
 #### FUNCIONALIDADES
 
 Quiz de múltipla escolha: O quiz apresenta uma série de perguntas sobre diferentes linguagens de programação, com opções de resposta. O usuário pode selecionar a resposta correta e receber feedback imediato.
+
 Diversidade de perguntas: O quiz abrange várias áreas das linguagens de programação, incluindo conceitos básicos e intermediários.
+
 Contagem de pontos: Cada resposta correta é pontuada e a pontuação total do usuário é exibida ao final do quiz.
+
 Exibição de respostas corretas: Após a conclusão do quiz, as respostas corretas são mostradas, permitindo ao usuário revisar e aprender com seus erros.
