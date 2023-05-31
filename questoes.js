@@ -232,17 +232,6 @@ let questions = [
   },
   {
     numb: 22,
-    question: "Como você declara uma variável em JavaScript?",
-    answer: "var myVariable;",
-    options: [
-      "var myVariable;",
-      "variable myVariable;",
-      "let myVariable;",
-      "const myVariable;"
-    ]
-  },
-  {
-    numb: 23,
     question: "Qual é o resultado da expressão '3' + 2 em JavaScript?",
     answer: "'32'",
     options: [
@@ -253,7 +242,7 @@ let questions = [
     ]
   },
   {
-    numb: 24,
+    numb: 23,
     question: "Qual é o resultado da expressão 2 + '2' em JavaScript?",
     answer: "'22'",
     options: [
@@ -264,7 +253,7 @@ let questions = [
     ]
   },
   {
-    numb: 25,
+    numb: 24,
     question: "Como você cria uma função em JavaScript?",
     answer: "function myFunction() {}",
     options: [
@@ -275,7 +264,7 @@ let questions = [
     ]
   },
   {
-    numb: 26,
+    numb: 25,
     question: "Como você chama uma função chamada 'myFunction' em JavaScript?",
     answer: "myFunction()",
     options: [
@@ -286,7 +275,7 @@ let questions = [
     ]
   },
   {
-    numb: 27,
+    numb: 26,
     question: "Como você cria um array em JavaScript?",
     answer: "var myArray = [];",
     options: [
@@ -297,7 +286,7 @@ let questions = [
     ]
   },
   {
-    numb: 28,
+    numb: 27,
     question: "Como você acessa o primeiro elemento de um array chamado 'myArray' em JavaScript?",
     answer: "myArray[0];",
     options: [
@@ -308,7 +297,7 @@ let questions = [
     ]
   },
   {
-    numb: 29,
+    numb: 28,
     question: "Como você adiciona um novo elemento no final de um array chamado 'myArray' em JavaScript?",
     answer: "myArray.push(element);",
     options: [
@@ -319,7 +308,7 @@ let questions = [
     ]
   },
   {
-    numb: 30,
+    numb: 29,
     question: "Como você remove o último elemento de um array chamado 'myArray' em JavaScript?",
     answer: "myArray.pop();",
     options: [
@@ -330,7 +319,7 @@ let questions = [
     ]
   },
   {
-    numb: 31,
+    numb: 30,
     question: "Como você cria um objeto em JavaScript?",
     answer: "var myObject = {};",
     options: [
